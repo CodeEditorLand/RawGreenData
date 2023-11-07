@@ -1,1 +1,1 @@
-https://github.com/swc-project/swc-ecosystem-ci/actions/runs/6764651441
+https://github.com/swc-project/swc-ecosystem-ci/actions/runs/6778150236
